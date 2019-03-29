@@ -17,7 +17,11 @@ Servers are able to enter orders by table number and even split checks if desire
 ##### [View Application](https://radiant-beyond-45567.herokuapp.com/ "Link to Application")
 **To access the restaurant view, use the following username/password combination - admin@shine.com/password** 
 
-
+## Technology 
+- React.js
+- Javascript, jQuery
+- Webscraping
+- mongoDB
 
 
 ### Developers:
