@@ -15,7 +15,7 @@ Staff are able to view upcoming reservations and update table status on the floo
 Servers are able to enter orders by table number and even split checks if desired. 
 
 **To access the restaurant view, use the following username/password combination - admin@shine.com/password** 
-[I'm an inline-style link with title](https://radiant-beyond-45567.herokuapp.com/ "Link to Application")
+##### [View Application](https://radiant-beyond-45567.herokuapp.com/ "Link to Application")
 
 
 
