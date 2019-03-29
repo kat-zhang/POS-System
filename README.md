@@ -14,7 +14,7 @@ The server is able to change the table status, enter the tables order, get the c
 Staff are able to view upcoming reservations and update table status on the floorplan by tapping on the table icons. 
 Servers are able to enter orders by table number and even split checks if desired. 
 
-**To access the restaurant view, use the following username/password combunation: #####admin@shine.com/password**
+**To access the restaurant view, use the following username/password combination - admin@shine.com/password**
 
 
 ### Developers:
