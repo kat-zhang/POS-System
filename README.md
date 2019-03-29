@@ -1,3 +1,6 @@
+
+Webster-Halsted POS
+
 This app is designed to be a restaurant POS system. The app was developed to improve upon some of the "pain points" that restaurants typically have with their POS systems. 
 
 The Webster Halsted POS system combines a consumer-view and a restaurant-view. 
@@ -11,7 +14,7 @@ The server is able to change the table status, enter the tables order, get the c
 Staff are able to view upcoming reservations and update table status on the floorplan by tapping on the table icons. 
 Servers are able to enter orders by table number and even split checks if desired. 
 
-To access the restaurant view, use the following username/password, admin@shine.com/password
+**To access the restaurant view, use the following username/password: admin@shine.com/password
 
 
 Developers:
