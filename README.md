@@ -1,7 +1,7 @@
 
 # Webster-Halsted POS
 
-This app is designed to be a restaurant POS system. The app was developed to improve upon some of the "pain points" that restaurants typically have with their POS systems. 
+This app is designed to be a restaurant point-of-sale (POS) system. The app was developed to improve upon some of the "pain points" that restaurants typically have with their POS systems. 
 
 The Webster Halsted POS system combines a consumer-view and a restaurant-view. 
 
