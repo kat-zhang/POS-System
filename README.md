@@ -17,10 +17,10 @@ Servers are able to enter orders by table number and even split checks if desire
 **To access the restaurant view, use the following username/password: admin@shine.com/password**
 
 
-__Developers:__
--Hannah Willis
--Andrea Minhas
--Kathy Zhang
--Steve Lucas
--Ryan Brode
--Shayne Officer
+### Developers:
+- Hannah Willis
+- Andrea Minhas
+- Kathy Zhang
+- Steve Lucas
+- Ryan Brode
+- Shayne Officer
