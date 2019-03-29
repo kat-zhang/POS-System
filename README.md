@@ -14,8 +14,9 @@ The server is able to change the table status, enter the tables order, get the c
 Staff are able to view upcoming reservations and update table status on the floorplan by tapping on the table icons. 
 Servers are able to enter orders by table number and even split checks if desired. 
 
-**To access the restaurant view, use the following username/password combination - admin@shine.com/password** 
 ##### [View Application](https://radiant-beyond-45567.herokuapp.com/ "Link to Application")
+**To access the restaurant view, use the following username/password combination - admin@shine.com/password** 
+
 
 
 
