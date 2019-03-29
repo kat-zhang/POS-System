@@ -1,5 +1,5 @@
 
-#Webster-Halsted POS
+# Webster-Halsted POS
 
 This app is designed to be a restaurant POS system. The app was developed to improve upon some of the "pain points" that restaurants typically have with their POS systems. 
 
@@ -17,10 +17,10 @@ Servers are able to enter orders by table number and even split checks if desire
 **To access the restaurant view, use the following username/password: admin@shine.com/password**
 
 
-Developers:
-Hannah Willis
-Andrea Minhas
-Kathy Zhang
-Steve Lucas
-Ryan Brode
-Shayne Officer
+__Developers:__
+-Hannah Willis
+-Andrea Minhas
+-Kathy Zhang
+-Steve Lucas
+-Ryan Brode
+-Shayne Officer
